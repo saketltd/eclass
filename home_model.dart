@@ -1,6 +1,6 @@
 import 'package:eclass/model/zoom_meeting.dart';
 
-class home {
+class homeses {
   HomeModel({
     this.settings,
     this.currency,
